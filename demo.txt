@@ -1,0 +1,13 @@
+frontend
+_____________
+
+cd cd .\collaborative-whiteboard
+npm i --legacy-peer-deps
+npm start
+
+
+backend
+__________________
+cd cd .\collaborative-whiteboard-backend
+npm i --legacy-peer-deps
+npm run dev
